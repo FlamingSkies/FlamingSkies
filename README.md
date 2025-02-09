@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Flaming Skies</h1>
 <h3 align="center">A casual programmer from the Philippines, where I am a member of a small named lulumuntech. It was a small group of individuals envisioning to sharpen their skills</h3>
-
-- 🔭 I’m currently working on **work**
+<img align="right" alt="Coding" width="400" src"https://tenor.com/view/genshin-impact-funny-so-funny-funny-as-hell-genshin-gif-1004470715541634370.gif">
+- 🔭 I’m currently working on ** my work**
 
 - 🌱 I’m currently learning **Augmented reality as well as 3D modeling**
 
@@ -9,9 +9,9 @@
 
 - 🤝 I’m looking for help with **my problems**
 
-- 💬 Ask me about **me**
+- 💬 Ask me about **myself**
 
-- 📫 How to reach me **to the philippines**
+- 📫 How to reach me **to the philippines... NOW**
 
 - ⚡ Fun fact **I am fan of fact**
 
